@@ -5,7 +5,9 @@ width: auto;
 display: block;
 justify-self: center;
 }
-.sub_titulo{
-color: black;
-
+.sub_titulo {
+color: aliceblue;
+background-color: black;
+width: auto;
+display: block;
 }
